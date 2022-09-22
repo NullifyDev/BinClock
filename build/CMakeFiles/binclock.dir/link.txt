@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++20 -g CMakeFiles/binclock.dir/src/main.cpp.o CMakeFiles/binclock.dir/src/utils/split.cpp.o CMakeFiles/binclock.dir/src/instructions.cpp.o CMakeFiles/binclock.dir/src/utils/files.cpp.o -o binclock 

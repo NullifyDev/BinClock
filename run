@@ -1,0 +1,19 @@
+#! /bin/bash
+clear
+
+if [[ $1 == "test" ]]; then 
+    g++ -o build/test \
+        test.cpp
+
+    ./build/test
+else 
+    cmake --build build && ./build/binclock   
+fi
+# g++ -o bin/binclock -std=c++20 \
+#     src/main.cpp \
+#     src/utils/split.cpp \
+#     src/instructions.cpp \
+#     src/utils/files.cpp 
+
+
+# ./bin/binclock

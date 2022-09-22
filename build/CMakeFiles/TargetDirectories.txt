@@ -1,0 +1,3 @@
+/home/velox/CustomMachineCode/BinClock/build/CMakeFiles/binclock.dir
+/home/velox/CustomMachineCode/BinClock/build/CMakeFiles/edit_cache.dir
+/home/velox/CustomMachineCode/BinClock/build/CMakeFiles/rebuild_cache.dir
